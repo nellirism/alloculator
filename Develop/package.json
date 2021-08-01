@@ -1,0 +1,29 @@
+{
+  "name": "alloculator",
+  "version": "1.0.0",
+  "description": "This application enables the user to add expenses and deposits to their budget with or without an online connection using Progressive Web Application (PWA) Principles.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "install": "^0.13.0",
+    "mongodb": "^3.5.5",
+    "mongoose": "^5.13.5",
+    "nodemon": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nellirism/alloculator.git"
+  },
+  "author": "Nell-e",
+  "license": "none",
+  "bugs": {
+    "url": "https://github.com/nellirism/alloculator/issues"
+  },
+  "homepage": "https://github.com/nellirism/alloculator#readme",
+  "keywords": []
+}
