@@ -18,10 +18,6 @@ THEN they will receive a notification that they have added an expense or deposit
 WHEN the user reestablishes an internet connection
 THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
 
-### Business Context
-
-Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
-
 ## Table of contents
 
 - [Overview of the PWA](#Info)
@@ -235,7 +231,7 @@ npm i mongoose
 ### Run
 
 - 1. On your VS Code clone the <a href="https://github.com/nellirism/alloculator" taget="_black"> gibthub repository</a>.
-- 2. Install all dependencies above
+- 2. Install dependencies
 - 3. Create a terminal on the Budget-Tracker folder and run:
   ```bash
   mongod
@@ -253,13 +249,13 @@ npm i mongoose
 2. Clone that reporisitory to your VS Code using git:
 
 ```bash
-git clone "the link of the github repo"
+git clone "github repo link (.git)"
 ```
 
 3. In your project folder terminal create a heroku application using this command:
 
 ```bash
-heroku create "name of your project"
+heroku create "project-name"
 ```
 
 4. Log in to your heroku account and look for your project in the DAHSBOARD. Go to the tabs located on top and click on DEPLOY. In the Deployement Method, click on the github icon to connect it to your github repository. Then on Automatic Deploy, click and enable automatic deploys
