@@ -236,8 +236,8 @@ npm i mongoose
 
 ### Run
 
-- 1. On your VS Code clone the <a href="https://github.com/Ethanlloyd21/Budget-Tracker" taget="_black"> gibthub repository</a>.
-- 2. Install all dependencies (see above)
+- 1. On your VS Code clone the <a href="https://github.com/nellirism/alloculator" taget="_black"> gibthub repository</a>.
+- 2. Install all dependencies above
 - 3. Create a terminal on the Budget-Tracker folder and run:
   ```bash
   mongod
@@ -300,17 +300,6 @@ heroku create "name of your project"
 
 # Demo
 
-Click here for a <a href="https://drive.google.com/file/d/1HSIJYdF2RUKWc56pd1Cs4q3TZOXViT8-/view" target="_blank"> >>>>> View the video demo <<<< </a>
-
-View the the app via heroku <a href="https://lloyd-budget-tracker-pwa.herokuapp.com/" target="_blank"> >>>> https://lloyd-budget-tracker-pwa.herokuapp.com/ <<<< </a>
-
 # Author
 
-- Lloyd Marcelino
-- github: https://github.com/ethanlloyd21
-- website: lloydmarcelino.com
-- email: lloydmarcelino@gmail.com
-
-# License
-
-- see MIT License Copyright (c) 2020
+- Nell-e
