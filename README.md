@@ -85,7 +85,7 @@ npm i mongoose
 
 - On your VS Code clone the <a href="https://github.com/nellirism/alloculator" taget="_black"> gibthub repository</a>.
 - Install dependencies
-- Create a terminal on the Budget-Tracker folder and run:
+- Create a terminal on the Alloculator folder and run:
   ```bash
   mongod
   ```
@@ -101,8 +101,8 @@ https://user-images.githubusercontent.com/71202250/127805005-70541013-5bda-4515-
 
 - Follow the steps on how to deploy an app on heroku
 
-1. Create a repository of your project in github.
-2. Clone that reporisitory to your VS Code using git:
+1. Create a GitHub repository.
+2. Clone that repository to your terminal using git:
 
 ```bash
 git clone "github repo link (.git)"
