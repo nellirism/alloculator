@@ -59,7 +59,7 @@ To be considered a Progressive Web App, your app must be:
 
 - Linkable - Easily share via URL and not require complex installation.
 
-#### Offline Support
+#### Offline Functionality
 
 - Apps should be able to work offline. Whether that be displaying a proper "offline" message or caching app data for display purpose.
 
@@ -227,7 +227,6 @@ npm i express
 npm i mongoose
 
 ```
-
 ### Run
 
 - 1. On your VS Code clone the <a href="https://github.com/nellirism/alloculator" taget="_black"> gibthub repository</a>.
@@ -240,6 +239,7 @@ npm i mongoose
   ```bash
   node server
   ```
+# Demo
 
 ### Deploy
 
@@ -267,32 +267,6 @@ heroku create "project-name"
 7. Make sure that you have "process.env.MONGODB_URI" in your mongoose.connect under the server file.
 
 8. Try to add a code and push it to your github. It will automatically hook it to heroku. Now view your heroku app.
-
-# Dependencies
-
-```bash
-"dependencies": {
-    "express": "^4.17.1",
-    "install": "^0.13.0",
-    "mongodb": "^3.5.5",
-    "mongoose": "^5.9.7",
-    "nodemon": "^2.0.2"
-  }
-
-```
-
-# Technologies
-
-- HTML5
-- CSS
-- jQuery
-- Express
-- MongoDB
-- Mongoose
-- IndexedDB
-- Bootstrap
-
-# Demo
 
 # Author
 
