@@ -95,6 +95,8 @@ npm i mongoose
   ```
 # Demo
 
+https://user-images.githubusercontent.com/71202250/127805005-70541013-5bda-4515-bf23-8aad613334c6.mp4
+
 ### Deploy
 
 - Follow the steps on how to deploy an app on heroku
