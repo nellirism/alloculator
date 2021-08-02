@@ -86,13 +86,13 @@ npm i mongoose
 ```
 ### Run
 
-- 1. On your VS Code clone the <a href="https://github.com/nellirism/alloculator" taget="_black"> gibthub repository</a>.
-- 2. Install dependencies
-- 3. Create a terminal on the Budget-Tracker folder and run:
+- On your VS Code clone the <a href="https://github.com/nellirism/alloculator" taget="_black"> gibthub repository</a>.
+- Install dependencies
+- Create a terminal on the Budget-Tracker folder and run:
   ```bash
   mongod
   ```
-- 4. Create another terminal on the same folder and run:
+- Create another terminal on the same folder and run:
   ```bash
   node server
   ```
