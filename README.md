@@ -23,11 +23,8 @@ THEN the deposits or expenses added while they were offline are added to their t
 - [Overview of the PWA](#Info)
 - [Functionality](#Functionality)
 - [Install](#Install)
-- [Dependencies](#Dependencies)
-- [Technologies](#Technologies)
 - [Demo](#Demo)
 - [Author](#Author)
-- [License](#License)
 
 # Overview of the PWA
 
