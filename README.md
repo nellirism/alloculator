@@ -74,7 +74,7 @@ When brought back online:
 
 - Offline entries should be added to tracker.
 
-## _In order to achieve OFFLINE SUPPORT, a manifest file and a service worker file must be created._
+## _A manifest file and a service worker file must be created in order to achieve offline functionality._
 
 ### Manifest `manifest.webmanifest`
 
